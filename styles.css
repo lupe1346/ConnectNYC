@@ -1,0 +1,82 @@
+#menuBar {
+  text-align: center;
+  list-style: none;
+  border: 5px dotted white;
+  /* display: inline-block; */
+  display: center;
+  word-spacing: 100px;
+  margin: auto;
+  color: fill;
+}
+/* #homeBanner{
+  background-image: url(https://images.pexels.com/photos/771881/pexels-photo-771881.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260);
+  background-size: cover;
+  background-position: center 30%;
+  position: absolute;
+  top: 50px;
+  height: 400px;
+  width: 100vw;
+} */
+body.city {
+  background-image: url(https://images.pexels.com/photos/771881/pexels-photo-771881.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260);
+  background-size: cover;
+}
+#banner {
+  font-size: 75px;
+  color: white;
+  text-align: center;
+  margin: auto;
+}
+#menuBar a {
+  color: white;
+}
+.main {
+  background-color: #b2b2b2;
+}
+
+/* div.cultures img {
+  filter: blur(1px);
+  height: 100%;
+  background-size: cover;
+  position: absolute;
+  z-index: -1;
+  opacity: .7;
+} */
+
+#menuBar a:hover {
+  color: lightblue;
+}
+
+/* #banner:hover {
+  color: green;
+} */
+
+#option {
+  text-align: center;
+}
+/* #reason {
+  text-align: center;
+  font-size: 40;
+  font-style: italic;
+  font-weight: bold;
+  margin: 0px;
+} */
+
+table, th, td {
+  border: 1px solid black;
+  border-collapse: collapse;
+}
+
+#lupe {
+  background-color: lavender;
+}
+
+
+
+
+
+
+
+
+
+/*  */
