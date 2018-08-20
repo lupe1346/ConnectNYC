@@ -71,6 +71,24 @@ table, th, td {
   background-color: lavender;
 }
 
+#rec p{
+  color:LAVENDERBLUSH;
+  float: left;
+  font-weight:bold;
+}
+
+#arielle {
+  background-color:CRIMSON;
+
+}
+
+iframe{
+  margin:0 auto;
+  display: block;
+  float: left;
+
+}
+
 
 
 
