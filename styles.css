@@ -71,7 +71,10 @@ table, th, td {
   background-color: lavender;
 }
 
-
+.pics {
+  height: 50px;
+  length: 25px;
+}
 
 
 
