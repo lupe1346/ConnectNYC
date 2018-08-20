@@ -71,6 +71,24 @@ table, th, td {
   background-color: lavender;
 }
 
+#rec p{
+  color:LAVENDERBLUSH;
+  float: left;
+  font-weight:bold;
+}
+
+#arielle {
+  background-color:CRIMSON;
+
+}
+
+iframe{
+  margin:0 auto;
+  display: block;
+  float: left;
+
+}
+
 
 
 .pics {
@@ -95,6 +113,42 @@ table, th, td {
   color: black;
   margin: 3vw;
 }
+
+#banner2 {
+  color: red;
+}
+#calendar{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#main img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#main p {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#main h2 {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#centered p{
+  text-align: center;
+}
+
+#centered h2{
+  text-align: center;
+}
+
 
 
 
