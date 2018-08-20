@@ -79,7 +79,6 @@ table, th, td {
 
 #arielle {
   background-color:CRIMSON;
-
 }
 
 iframe{
@@ -88,8 +87,6 @@ iframe{
   float: left;
 
 }
-
-
 
 .pics {
   height: 175px;
@@ -113,6 +110,7 @@ iframe{
 #banner2 {
   color: red;
 }
+
 #calendar{
   display: block;
   margin-left: auto;
