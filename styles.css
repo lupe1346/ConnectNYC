@@ -74,8 +74,12 @@ table, th, td {
 
 
 .pics {
-  height: 175px;
-  width: 175px;
+  height: 185px;
+  width: 185px;
+  padding: 10px;
+  padding-left: 70px;
+  padding-top: 30px;
+
 }
 
 
