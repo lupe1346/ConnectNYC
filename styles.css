@@ -92,6 +92,42 @@ table, th, td {
   margin: 3vw;
 }
 
+#banner2 {
+  color: red;
+}
+#calendar{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#main img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#main p {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#main h2 {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#centered p{
+  text-align: center;
+}
+
+#centered h2{
+  text-align: center;
+}
+
+
 
 
 
