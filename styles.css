@@ -31,7 +31,7 @@ body.city {
   color: white;
 }
 .main {
-  background-color: 	#D3D3D3;
+  background-color: #D3D3D3;
 }
 
 /* div.cultures img {
@@ -78,16 +78,18 @@ table, th, td {
 }
 
 #arielle {
-  background-color:CRIMSON;
+  background-color:lightblue;
 }
 
 iframe{
   margin:0 auto;
   display: block;
   float: left;
-
 }
 
+.location {
+  display: inline-block;
+}
 .pics {
   height: 175px;
   width: 175px;
