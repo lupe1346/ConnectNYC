@@ -90,16 +90,23 @@ iframe{
 }
 
 
-
+/* Marcela's CSS Code Starts Here */
 .pics {
   height: 185px;
   width: 185px;
-  padding: 10px;
+  /* padding: 10px;
   padding-left: 70px;
-  padding-top: 30px;
+  padding-top: 30px; */
+  display: block;
+  margin: auto;
+  padding-top: 25px;
 
 }
 
+.captions {
+  text-align: center;
+}
+/* Ends Here */
 
 #cultures p {
   font-size: 25px;
