@@ -31,7 +31,7 @@ body.city {
   color: white;
 }
 .main {
-  background-color: 	#D3D3D3;
+  background-color: #D3D3D3;
 }
 
 /* div.cultures img {
@@ -78,19 +78,19 @@ table, th, td {
 }
 
 #arielle {
-  background-color:CRIMSON;
-
+  background-color:lightblue;
 }
 
 iframe{
   margin:0 auto;
   display: block;
   float: left;
-
 }
 
+.location {
+  display: inline-block;
+}
 
-/* Marcela's CSS Code Starts Here */
 .pics {
   height: 185px;
   width: 185px;
@@ -124,25 +124,25 @@ iframe{
 #banner2 {
   color: red;
 }
+
 #calendar{
   display: block;
   margin-left: auto;
   margin-right: auto;
 }
 
-#main img {
+#main {
+  text-align: center;
+}
+
+#calendar {
   display: block;
   margin-left: auto;
   margin-right: auto;
 }
 
-#main p {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-}
 
-#main h2 {
+#centered img {
   display: block;
   margin-left: auto;
   margin-right: auto;
@@ -156,7 +156,14 @@ iframe{
   text-align: center;
 }
 
+#arianna {
+  background-color: gold;
+}
 
+.pics{
+  height: 300px;
+  width: 400px;
+}
 
 
 
