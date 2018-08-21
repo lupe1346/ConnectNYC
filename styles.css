@@ -91,8 +91,12 @@ iframe{
   display: inline-block;
 }
 .pics {
-  height: 175px;
-  width: 175px;
+  height: 185px;
+  width: 185px;
+  padding: 10px;
+  padding-left: 70px;
+  padding-top: 30px;
+
 }
 
 
@@ -119,19 +123,18 @@ iframe{
   margin-right: auto;
 }
 
-#main img {
+#main {
+  text-align: center;
+}
+
+#calendar {
   display: block;
   margin-left: auto;
   margin-right: auto;
 }
 
-#main p {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-}
 
-#main h2 {
+#centered img {
   display: block;
   margin-left: auto;
   margin-right: auto;
@@ -145,7 +148,14 @@ iframe{
   text-align: center;
 }
 
+#arianna {
+  background-color: gold;
+}
 
+.pics{
+  height: 300px;
+  width: 400px;
+}
 
 
 
