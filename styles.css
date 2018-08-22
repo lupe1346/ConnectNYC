@@ -62,19 +62,28 @@ body.city {
   margin: 0px;
 } */
 
+#mexican,
+#asian,
+#italian,
+#chinese {
+  display: inline-block;
+  display: inline-table;
+}
+
+table{
+  width: 48.5vw;
+}
+tr {
+  height: 60px;
+}
 table, th, td {
   border: 1px solid black;
   border-collapse: collapse;
+  padding: 5px;
 }
 
 #lupe {
   background-color: lavender;
-}
-
-#rec p{
-  color:LAVENDERBLUSH;
-  float: left;
-  font-weight:bold;
 }
 
 #arielle {
@@ -94,6 +103,7 @@ iframe{
 /* Marcela's CSS Code Begins Here */
 #marcela{
   background-color:white;
+  font-style: normal;
 }
 .pics {
   height: 300px;
@@ -109,14 +119,11 @@ iframe{
   border-color: white;
   border-style: solid;
   background-color: white; */
-
 }
-
 .captions {
   text-align: center;
   font-family: 'Montserrat', sans-serif;
   font-weight: bold;
-
 }
 /* Ends Here */
 
@@ -177,9 +184,10 @@ iframe{
 
 
 
-
-
-
+.ariPics {
+  height: 450px;
+  width: 530px;
+}
 
 
 
