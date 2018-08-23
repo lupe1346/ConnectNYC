@@ -113,7 +113,6 @@ iframe{
   display: inline-block;
 }
 
-/* Marcela's CSS Code Begins Here */
 #marcela {
   background-color: white;
   margin: 8px;
@@ -235,4 +234,7 @@ figure {
 .pics{
   height:450;
   width: 530;
+}
+#subBanner{
+  text-align: center;
 }
