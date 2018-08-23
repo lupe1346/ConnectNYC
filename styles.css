@@ -8,6 +8,7 @@
   margin: auto;
   color: fill;
   font-family: "times";
+  font-size: 32px;
 }
 /* #homeBanner{
   background-image: url(https://images.pexels.com/photos/771881/pexels-photo-771881.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260);
@@ -244,4 +245,9 @@ iframe{
 }
 #subBanner{
   text-align: center;
+}
+
+#arielle p {
+  font-size: 20px;
+  font-weight:bold;
 }
