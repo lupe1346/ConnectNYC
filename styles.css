@@ -78,7 +78,7 @@ table, th, td {
 }
 
 #arielle {
-  background-color:lightblue;
+  background-color:DARKSALMON;
 }
 
 iframe{
@@ -172,16 +172,13 @@ iframe{
   background-color: gold;
 }
 
-
-
-
-
-
 .ariPics {
   height: 450px;
   width: 530px;
 }
 
 
-
-/*  */
+.pics{
+  height:450;
+  width: 530;
+}
