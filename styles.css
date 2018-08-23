@@ -168,9 +168,16 @@ iframe{
   font-size: 25px;
   font-style: italic;
   text-align: center;
-  border: 3px double black;
   color: black;
   margin: 3vw;
+}
+
+#intro {
+  width: 60em;
+  margin: auto;
+  background-color: rgba(255, 255, 255, 0.7);
+  border: 3px double black;
+  margin-top: 2em;
 }
 
 #banner2 {
@@ -220,15 +227,15 @@ iframe{
 .mission {
   height: 450px;
   width: 300px;
-  display: inline-block;
   margin: 23.5px;
   border: 1px solid black;
   border-collapse: separate;
 }
 
-figure {
+#us figure {
   text-align: center;
   font-size: 20px;
+  display: inline-block;
 }
 
 .pics{
